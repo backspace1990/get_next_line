@@ -6,7 +6,7 @@
 
 *  [Goals](#Goals)
 *  [Common Instructions](#Common-Instructions)
-*  [Mandatory part - Get_next_line](#Mandatory-part-Get_next_line)
+*  [Mandatory part-Get_next_line](#Mandatory-part-Get_next_line)
 *  [Bonus part](#Bonus-part)
 
 # Goals
@@ -22,7 +22,7 @@ This project will not only allow you to add a very convenient function to your c
 **8-** We encourage you to create test programs for your project even though this work won’t have to be submitted and won’t be graded. It will give you a chance to easily test your work and your peers’ work. You will find those tests especially useful during your defence. Indeed, during defence, you are free to use your tests and/or the tests of the peer you are evaluating.<br>
 **9-** Submit your work to your assigned git repository. Only the work in the git repository will be graded. If Deepthought is assigned to grade your work, it will be done after your peer-evaluations. If an error happens in any section of your work during Deepthought’s grading, the evaluation will stop.<br>
 
-# Mandatory part - Get_next_line
+# Mandatory part-Get_next_line
 <p align="center">
 <img width="" height="" src="2_res.png">
 </p>
