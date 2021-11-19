@@ -11,6 +11,8 @@
 
 # Goals
 This project will not only allow you to add a very convenient function to your collection, but it will also allow you to learn a highly interesting new concept in C programming: static variables.<br>
+The aim of this project is to make you code a function that returns a line,
+read from a file descriptor. <br>
 # Common Instructions
 **1-** Your project must be written in accordance with the Norm. If you have bonus files/functions, they are included in the norm check and you will receive a 0 if there is a norm error inside.<br>
 **2-** Your functions should not quit unexpectedly (segmentation fault, bus error, double free, etc) apart from undefined behaviors. If this happens, your project will be considered non functional and will receive a 0 during the evaluation.<br>
