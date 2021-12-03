@@ -9,6 +9,8 @@
 *  [Mandatory part-Get_next_line](#Mandatory-part-Get_next_line)
 *  [Bonus part](#Bonus-part)
 
+'gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42'<br>
+
 # Goals
 This project will not only allow you to add a very convenient function to your collection, but it will also allow you to learn a highly interesting new concept in C programming: static variables.<br>
 The aim of this project is to make you code a function that returns a line,
